@@ -1,0 +1,29 @@
+1. python 3.9 download
+
+https://www.python.org/
+
+- !!Check Add python path - reboot
+
+ 
+
+2. openVINO runtime download
+
+https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/download.html
+
+Runtime - 2022.1 - offline installer
+
+ 
+
+3.(In conda or virtual environment) openVINO dev download
+
+pip install openvino-dev[tensorflow2]
+
+ 
+
+4. (In conda or virtual environment) Run openVINO setupvars.bat
+
+C:\Program Files (x86)\Intel\openvino_2022.1.0.643\setupvars.bat
+
+ 
+
+5. Run jupyter notebook 
